@@ -1,8 +1,3 @@
-#ifndef PILHA_H
-#define  PILHA_H
-#include "pilha.h"
-#endif
-
 #ifndef STDLIB_H
 #define  STDLIB_H
 #include<stdlib.h>
@@ -12,6 +7,14 @@
 #define  BIGNUM_H
 #include "bigNum.h"
 #endif
+
+
+#ifndef PILHA_H
+#define  PILHA_H
+#include "pilha.h"
+#endif
+
+
 
 BigNum *criar(){
 
