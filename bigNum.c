@@ -14,7 +14,10 @@
 #endif
 
 BigNum *criar(){
+
+  
   return iniPilha();
+  
 }
 
 void adicionarNumero(int num, BigNum *bigNum){
