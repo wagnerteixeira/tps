@@ -34,4 +34,5 @@ BigNum *subtrair(BigNum *bigNum1, BigNum bigNum2){
 
 void imprimir(BigNum *bigNum){
   imprimePilha(bigNum);
+  
 }
